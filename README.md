@@ -1,2 +1,3 @@
-# core-recipe-manager-hboy
-Automated issue comment bot repository
+# Core Recipe Manager Hboy
+
+Automated issue comment bot repository.
